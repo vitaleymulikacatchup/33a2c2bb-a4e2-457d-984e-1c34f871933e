@@ -6,7 +6,7 @@ import HeroBillboardCorners from '@/components/sections/hero/HeroBillboardCorner
 import AboutFeature from '@/components/sections/about/AboutFeature';
 import FeatureCardSeven from '@/components/sections/feature/FeatureCardSeven';
 import ProductCardTwo from '@/components/sections/product/ProductCardTwo';
-import MetricCardTwo from '@/components/sections/metric/MetricCardTwo';
+import MetricCardTwo from '@/components/sections/metrics/MetricCardTwo';
 import TeamCardTwo from '@/components/sections/team/TeamCardTwo';
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import FaqDouble from '@/components/sections/faq/FaqDouble';
@@ -118,42 +118,42 @@ export default function Home() {
           animationType="blur-reveal"
           features={[
             {
-              id: "1",
+              id: 1,
               title: "Portrait Photography",
               description: "Professional headshots and personal portraits that capture personality and character with perfect lighting and composition.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031984000-lcpbae8l.jpg",
               imageAlt: "Portrait photography session"
             },
             {
-              id: "2",
+              id: 2,
               title: "Landscape Photography",
               description: "Breathtaking natural landscapes and scenic photography showcasing the beauty of nature through artistic composition.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031984631-uqzjbbo3.jpg",
               imageAlt: "Landscape photography"
             },
             {
-              id: "3",
+              id: 3,
               title: "Wedding Photography",
               description: "Elegant wedding photography capturing every precious moment from ceremony to celebration with timeless style.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031985334-r27yygo5.jpg",
               imageAlt: "Wedding photography"
             },
             {
-              id: "4",
+              id: 4,
               title: "Event Photography",
               description: "Dynamic event coverage for corporate functions, parties, and special occasions with professional documentation.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031986039-mritgruf.jpg",
               imageAlt: "Event photography"
             },
             {
-              id: "5",
+              id: 5,
               title: "Commercial Photography",
               description: "High-quality commercial photography for businesses, products, and marketing materials with creative visual solutions.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031986680-3ncnal0d.jpg",
               imageAlt: "Commercial photography"
             },
             {
-              id: "6",
+              id: 6,
               title: "Nature Photography",
               description: "Wildlife and nature photography capturing the raw beauty and essence of the natural world in stunning detail.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031987391-g7xfaxjh.jpg",
