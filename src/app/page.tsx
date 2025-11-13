@@ -305,7 +305,7 @@ export default function Home() {
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031994406-xvne0qmu.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031995248-icd7pb4r.jpg",
             "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34my1kGeblbsCcwUUCcjBY9WFkg/tmp/uploaded-1763031995899-l40mimwe.jpg"
-          ]
+          ]}
           speed={35}
           showCard={true}
         />
